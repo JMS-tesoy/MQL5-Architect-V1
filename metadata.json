@@ -1,0 +1,5 @@
+{
+  "name": "MQL5 Architect",
+  "description": "An AI-powered assistant for generating MetaQuotes Language 5 (MQL5) code for algorithmic trading strategies, indicators, and scripts.",
+  "requestFramePermissions": []
+}
